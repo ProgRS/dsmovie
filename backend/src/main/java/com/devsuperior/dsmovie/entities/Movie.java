@@ -83,9 +83,12 @@ public class Movie {
 			return scores;
 		}
 
+		/*
 		public void setScores(Set<Score> scores) {
 			this.scores = scores;
 		}
+		
+		*/
 		
 		
 		
